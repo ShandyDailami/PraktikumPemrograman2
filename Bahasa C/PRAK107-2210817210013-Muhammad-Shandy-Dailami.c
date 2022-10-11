@@ -13,4 +13,6 @@ int main() {
     printf("Harga tanah Per Meter adalah %d\n", biayaPemasanganPagarPermeter);
     printf("Jawaban :\n");
     printf("Biaya yang diperlukan Pak Dengklek adalah : Rp %d\n", biaya);
+
+    return 0;
 }

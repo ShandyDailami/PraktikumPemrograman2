@@ -11,4 +11,6 @@ int main() {
     printf("Variabel x bernilai %d\n", x);
     printf("Variabel y bernilai %d\n", y);
     printf("Total sisa bagi dari a dibagi b dan x dibagi y adalah %d\n", result);
+
+    return 0;
 }

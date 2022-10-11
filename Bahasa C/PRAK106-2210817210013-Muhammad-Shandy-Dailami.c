@@ -16,4 +16,6 @@ int main() {
     if(a != c) {
         printf("Apakah a tidak sama dengan c ? jawabannya adalah 1\n");
     }
+
+    return 0;
 }
