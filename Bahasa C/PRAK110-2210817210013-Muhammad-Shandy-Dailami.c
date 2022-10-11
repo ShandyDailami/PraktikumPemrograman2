@@ -15,5 +15,6 @@ int main() {
     printf("Sisi B = %.f cm\n", sisiB);
     printf("Sisi C = %.f cm\n", sisiC);
     printf("Keliling = %.f cm\n",kelilingSegitiga);
-    printf("Luas = %.f cm",kelilingSegitiga);
+    
+    return 0;
 }
